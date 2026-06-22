@@ -29,7 +29,7 @@ A full-stack expense management application built using the MERN stack (MongoDB,
 - MongoDB
 - Mongoose
 
-## Project Structure
+## Project Structure 
 
 ```text
 backend/
